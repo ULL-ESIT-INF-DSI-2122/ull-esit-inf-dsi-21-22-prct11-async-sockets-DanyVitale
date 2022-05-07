@@ -1,0 +1,15 @@
+{
+    "entryPoints": [
+      "./src/Ejercicio-1/ejercicio-1.ts",
+      "./src/Ejercicio-2/ejercicio-2.ts",
+      "./src/Ejercicio-2/findWord.ts",
+
+      "./src/Ejercicio-3/Notas/app.ts",
+      "./src/Ejercicio-3/Notas/note.ts",
+      "./src/Ejercicio-3/ejercicio-3.ts",
+
+      "./src/Ejercicio-4/ejercicio-4.ts",
+      "./src/Ejercicio-4/wrapper.ts"
+    ],
+    "out": "./docs"
+  }
