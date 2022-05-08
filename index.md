@@ -1,4 +1,4 @@
-# PRÁCTICA 9 - APLICACIÓN DE PROCESAMIENTO DE NOTAS DE TEXTO
+# PRÁCTICA 11 - Cliente y servidor para una aplicación de procesamiento de notas de texto
 ### *ASIGNATURA:* Desarrollo de Sistemas Informáticos
  > **NOMBRE COMPLETO:** DANIELE VITALE  
  > ID ALU: ALU0101329017  
