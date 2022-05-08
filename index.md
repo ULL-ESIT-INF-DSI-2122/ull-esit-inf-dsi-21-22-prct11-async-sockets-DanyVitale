@@ -316,7 +316,7 @@ class EventEmitterServer extends EventEmitter {
 }
 ```
 
-La clase contiene un constructor que recibe como parámetro un objeto de tipo EventEmitter. A continuación se hace uso de la función on para asignar una función a un evento. Se empieza sumando a wholeMessage el contenido de data. Luego se realiza una condición que comprueba si existe una nueva línea en el mensaje. Si existe, se crea una constante llamada message que contiene el mensaje hasta la nueva línea. Luego se realiza una condición que comprueba si el mensaje es un objeto JSON. Si es así, se emite el evento 'request' con el mensaje.
+La clase contiene un constructor que recibe como parámetro un objeto de tipo EventEmitter. A continuación se hace uso de la función on para asignar una función a un evento. Se empieza sumando a wholeMessage el contenido de data. Luego se realiza una condición que comprueba si existe una nueva línea en el mensaje. Si existe, se crea una constante llamada message que contiene el mensaje hasta la nueva línea. 
 
 
 ## CLIENT<a name="id2.2"></a>
