@@ -1,15 +1,16 @@
 {
     "entryPoints": [
-      "./src/Ejercicio-1/ejercicio-1.ts",
-      "./src/Ejercicio-2/ejercicio-2.ts",
-      "./src/Ejercicio-2/findWord.ts",
-
-      "./src/Ejercicio-3/Notas/app.ts",
-      "./src/Ejercicio-3/Notas/note.ts",
-      "./src/Ejercicio-3/ejercicio-3.ts",
-
-      "./src/Ejercicio-4/ejercicio-4.ts",
-      "./src/Ejercicio-4/wrapper.ts"
+      "./src/Client/client.ts",
+      "./src/Client/eventEmitterClient.ts",
+      "./src/Server/server.ts",
+      "./src/Server/eventEmitterServer.ts",
+      "./src/Server/eventEmitterServer.ts",
+      "./src/Interfaces/noteType.ts",
+      "./src/Interfaces/request.ts",
+      "./src/Interfaces/response.ts",
+      "./src/Notes/note.ts",
+      "./src/Notes/mngNote.ts",
+      "./src/Notes/app.ts"
     ],
     "out": "./docs"
   }
